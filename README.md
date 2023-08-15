@@ -31,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto Cheesecake veio para colocar em pratica alguns conceitos e boas praticas de responsividade, como Mobile-first e unidades de medidas flexiveis.
 
+Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/cheesecake-project/) 👀 
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/83j4lkycKeGZFVtBsDQ2nG/Cheesecake-%E2%80%A2-Projeto-Explorer-(Community)?type=design&node-id=113-93&mode=design&t=QzCw4iqDQhdRvKUW-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
